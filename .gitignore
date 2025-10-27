@@ -14,3 +14,7 @@ override.tf.json
 # CLI config files
 .terraformrc
 terraform.rc
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl

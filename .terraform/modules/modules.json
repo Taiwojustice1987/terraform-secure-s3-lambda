@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"lambda_iam_role","Source":"./modules/lambda_iam_role","Dir":"modules/lambda_iam_role"},{"Key":"secure_s3_bucket","Source":"./modules/secure_s3_bucket","Dir":"modules/secure_s3_bucket"}]}
